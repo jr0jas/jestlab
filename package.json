@@ -1,0 +1,24 @@
+{
+  "name": "jestlab",
+  "version": "1.0.0",
+  "description": "Jest Lab - based on Jest Testing Tutorial https://testautomationu.applitools.com/jest-testing-tutorial/",
+  "main": "index.js",
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^1.7.7"
+  },
+  "devDependencies": {
+    "@eslint/js": "^9.13.0",
+    "eslint": "^9.13.0",
+    "eslint-plugin-react": "^7.37.2",
+    "globals": "^15.11.0",
+    "jest": "^29.7.0"
+  },
+  "scripts": {
+    "lint": "eslint .",
+    "test": "jest",
+    "check": "npm run lint && npm test"
+  }
+}
