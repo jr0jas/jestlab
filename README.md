@@ -14,7 +14,9 @@ Each folder contains example code and tests for a specific Jest topic:
 | `04-before-after/`  | Setup and teardown with `beforeEach`/`afterEach` |
 | `05-specific-tests/`| Running specific or focused tests             |
 | `06-async/`         | Asynchronous testing (Promises, async/await)  |
-| `07-snapshots/`     | Snapshot testing (e.g. for React components)  |
+| `07-snapshots/`     | Snapshot testing                              |
+| `08-bonus/`      | Bonus examples: reading HTML & JSON mocks, mocking APIs, and testing API responses |
+
 
 ## 🚀 Getting Started
 
@@ -64,7 +66,8 @@ jestlab/
 ├── 04-before-after/  
 ├── 05-specific-tests/  
 ├── 06-async/  
-├── 07-snapshots/  
+├── 07-snapshots/ 
+├── 08-bonus/  
 └── README.md
 
 ### 📌 Note on `__tests__` Folder
