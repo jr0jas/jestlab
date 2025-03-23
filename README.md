@@ -61,7 +61,7 @@ test('adds 1 + 2 to equal 3', () => {
 - JavaScript (ES6+)
 
 ## 📁 Folder Structure Preview
-
+```
 jestlab/
 ├── 01-install/
 ├── 02-basic-test/
@@ -72,7 +72,7 @@ jestlab/
 ├── 07-snapshots/
 ├── 08-bonus/
 └── README.md
-
+```
 ### 📌 Note on `__tests__` Folder
 
 Jest does **not require** a `__tests__/` folder. It will automatically find test files that:
