@@ -1,0 +1,54 @@
+# Node.js dependencies
+node_modules/
+
+# Build output
+dist/
+build/
+out/
+
+# Production
+.env
+.env.*.local
+
+# Testing
+coverage/
+*.lcov
+**/__snapshots__/
+*.snap
+jest-html-reporters-*
+
+# Logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+
+# Editor directories and files
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# Optional: TypeScript
+*.tsbuildinfo
+
+# Optional: Parcel / Vite / Webpack cache
+.cache/
+.next/
+.nuxt/
+.svelte-kit/
+.snowpack/
+.solid/
+vite.svg
+vite.svg?
+
+# Optional: Storybook
+.out/
+storybook-static/
+
+# Optional: Git history & lock
+*.lock

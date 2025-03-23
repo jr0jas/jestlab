@@ -1,0 +1,19 @@
+{
+  "name": "jestlab",
+  "version": "1.0.0",
+  "description": "Learning and practicing Jest unit testing",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": ["jest", "unit-testing", "javascript", "testing", "mock"],
+  "author": "Jorge Rojas",
+  "license": "MIT",
+  "type": "commonjs",
+  "devDependencies": {
+    "jest": "^29.7.0"
+  },
+  "dependencies": {
+    "axios": "^1.6.7"
+  }
+}
