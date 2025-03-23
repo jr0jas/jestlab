@@ -67,6 +67,16 @@ jestlab/
 ├── 07-snapshots/  
 └── README.md
 
+### 📌 Note on `__tests__` Folder
+
+Jest does **not require** a `__tests__/` folder. It will automatically find test files that:
+- Are inside any folder named `__tests__/`
+- Have filenames that match `*.test.js` or `*.spec.js`
+
+So you're free to:
+- Place test files next to the source files (like in this repo)
+- Or group them in a `__tests__` folder if you prefer that structure
+
 ## 🧠 Reference
 
 This repository is based on the course:  
