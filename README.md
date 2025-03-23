@@ -86,6 +86,3 @@ MIT License — feel free to fork and build on it.
 ---
 
 Happy Testing! 🚀
-```
-
-Let me know if you’d like to include a short bio, profile pic badge, or link to your GitHub/portfolio as well!
