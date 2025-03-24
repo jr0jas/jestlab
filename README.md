@@ -97,7 +97,12 @@ So you're free to:
 
 This repository is based on the course:
 **Test Automation University - Jest Testing Tutorial** by Angie Jones
+
 📘 https://testautomationu.applitools.com/jest-testing-tutorial
+
+**For more information on Jest, visit the official documentation:**
+
+🔗 https://jestjs.io/
 
 ## 👨‍💻 About the Author
 
